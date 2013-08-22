@@ -1,0 +1,30 @@
+#  Sgaw Karen Word List
+#  Copyright (C)  2013  LeRoy Benjamin Sharon
+#  With special thanks to Robert Martin Campbell
+#
+#  Word sources include but are not limited to:
+#    - The Holy Bible
+#    - A Manual of the Pwo Karen Dialect, C. H. Duffin
+#
+#  This list is part of a project hosted at:
+#    github.com/kanyawtech/myanmar-karen-word-lists
+#
+#  Also for more information and aditional projects, see:
+#    kanyawtech.org
+#
+#  Released under the BSD license, a copy of which is bundled with
+#  this file
+#
+#  This list was created to aid in word wrapping issues. It aims to
+#  be an exhaustive list of all words in Pwo Karen. Contributions
+#  are welcome.
+#
+#  For purposes of this word list, I define a word as a string of
+#  syllabes where, if it were broken at any point, the resultant
+#  parts would have either no meaning or an entirely unrelated
+#  meaning.
+#
+#  See README.md for more information and a list of
+#  changes
+#
+#  Current version 0.01, Published on 08-22-2013
