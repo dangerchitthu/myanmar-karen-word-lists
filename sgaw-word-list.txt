@@ -1,4 +1,4 @@
-#  Sgaw Karen Word List
+﻿#  Sgaw Karen Word List
 #  Copyright (C)  2013  LeRoy Benjamin Sharon
 #  With special thanks to Robert Martin Campbell
 #

@@ -1,4 +1,4 @@
-#  Burmese Word List
+﻿#  Burmese Word List
 #  Copyright (C)  2013  LeRoy Benjamin Sharon
 #  With special thanks to Robert Martin Campbell
 #
