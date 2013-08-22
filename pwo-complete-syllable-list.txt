@@ -1,3 +1,23 @@
+#  Pwo Karen Syllable List
+#  Copyright (C)  2013  LeRoy Benjamin Sharon
+#  With special thanks to Robert Martin Campbell
+#
+#  This list is part of a project hosted at:
+#    github.com/kanyawtech/myanmar-karen-word-lists
+#
+#  Also for more information and aditional projects, see:
+#    kanyawtech.org
+#
+#  Released under the BSD license, a copy of which is bundled with
+#  this file
+#
+#  This list was created to aid in word wrapping issues. It is simply
+#  a list of all possible syllable level combinations the Pwo Karen
+#  orthography permits
+#
+#  See README.md for more information and a list of changes
+#
+#  Current version 0.01, Published on 08-22-2013
 က
 ကံ
 ကံး
@@ -6665,4 +6685,3 @@
 ဧၨၬ
 ဧၨၭ
 ၦ
-
