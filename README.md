@@ -46,7 +46,7 @@ Word sources include but are not limited to:
 Pwo Karen
 ---------
 
-### pwo-complete-syllable-list.txt - 3435 syllables
+### pwo-complete-syllable-list.txt - 6667 syllables
 
 This is simply a listing of all possible syllable level combinations that the Karen orthography allows.
 
