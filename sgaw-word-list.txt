@@ -1,13 +1,4 @@
-﻿#  Sgaw Karen Word List
-#  Copyright (C)  2013  LeRoy Benjamin Sharon
-#  With special thanks to Robert Martin Campbell
-#
-#  Word sources include but are not limited to:
-#    - The Holy Bible
-#    - A Dictionary of the Sgau Karen, American Baptist Mission Press
-#    - Drum Karen English dictionary
-#    - A Grammar of the Sgau Karen, Rev. David Gilmore
-#    - Say it in Karen, Emilie Ballard
+#  sgaw-word-list.txt
 #
 #  This list is part of a project hosted at:
 #    github.com/kanyawtech/myanmar-karen-word-lists
@@ -15,28 +6,15 @@
 #  Also for more information and aditional projects, see:
 #    kanyawtech.org
 #
-#  Released under the BSD license, a copy of which is bundled with
-#  this file
+#  See README.md for more information
 #
-#  This list was created to aid in word wrapping issues. It aims to
-#  be an exhaustive list of all words in Sgaw Karen. Contributions
-#  are welcome.
-#
-#  For purposes of this word list, I define a word as a string of
-#  syllabes where, if it were broken at any point, the resultant
-#  parts would have either no meaning or an entirely unrelated
-#  meaning.
-#
-#  See README.md for more information and a list of
-#  changes
-#
-#  Current version 0.01, Published on 08-22-2013
 က
 ကံ
 ကံး
 ကံးကူာ်ဒိး
 ကံလိကြဲၢ်
 ကံလိကြဲၢ်မ်
+ကံလိ
 ကံလိမံထၢၣ်
 ကံလိၤ
 ကံာ်
@@ -6765,6 +6743,7 @@
 ပှၤလၢအကွဲးထါ
 ပှၤလၢအခီၣ်ဟးဂီၤ
 ပှၤလၢအငါဟံၣ်
+
 ပှၤလၢအဆှၢတၢ်
 ပှၤလၢအဆါတၢ်ဖံးတၢ်ညၣ်
 ပှၤလၢအဆါလီၤအီၣ်ကွံာ်ပှၤဂၤ
@@ -9441,6 +9420,7 @@
 သဒၢမုၢ်
 သန့
 သန့လၣ်
+
 သန့ၤ
 သန့ၤထီၣ်အသး
 သန့ၤအသး
