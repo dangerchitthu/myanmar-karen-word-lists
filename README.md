@@ -16,7 +16,7 @@ All lists are released under the BSD license, a copy of which is bundled with th
 Myanmar
 -------
 
-### burmese-word-list.txt - 40,000+ words
+**burmese-word-list.txt** - 40,000+ words
 
 Sources include:
 - The my-l10n project, hosted at https://code.google.com/p/my-l10n/. The my-l10n project page states that the word list is released under the MIT lisence. However, there appears to be no copyright notice on the site or in the download. Also, the GNU Free Documentation License in the download, making it dual-licensed. I am using the list under the MIT terms. In compliance with the MIT license you will find a copy in LICENSE-MIT.txt. I do not know the names of the author(s).
@@ -28,11 +28,11 @@ This list was created to aid in word wrapping, word segmentation, and spell chec
 Sgaw Karen
 ----------
 
-### sgaw-complete-syllable-list.txt - 3435 syllables
+**sgaw-complete-syllable-list.txt** - 3435 syllables
 
 This is simply a listing of all possible syllable level combinations that the Karen orthography allows.
 
-### sgaw-word-list.txt - 10,000+ words
+**sgaw-word-list.txt** - 10,000+ words
 
 This list aims to include all words in the Sgaw Karen language. For the purpose of this list, a word is defined as a string of characters such that, if it were split in two at any point, the resultant parts would have either no meaning whatsoever, or a completely unrelated meaning.
 
@@ -46,11 +46,11 @@ Word sources include but are not limited to:
 Pwo Karen
 ---------
 
-### pwo-complete-syllable-list.txt - 6667 syllables
+**pwo-complete-syllable-list.txt** - 6667 syllables
 
 This is simply a listing of all possible syllable level combinations that the Karen orthography allows.
 
-### pwo-word-list.txt - 10,000+ words
+**pwo-word-list.txt** - 10,000+ words
 
 Word sources include but are not limited to:
 - The Holy Bible
