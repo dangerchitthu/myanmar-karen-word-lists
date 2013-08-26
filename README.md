@@ -50,7 +50,7 @@ Pwo Karen
 
 This is simply a listing of all possible syllable level combinations that the Karen orthography allows.
 
-**pwo-word-list.txt** - 10,000+ words
+**pwo-word-list.txt**
 
 Word sources include but are not limited to:
 - The Holy Bible
