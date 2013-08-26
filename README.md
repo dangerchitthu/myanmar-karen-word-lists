@@ -1,13 +1,13 @@
 myanmar-karen-word-lists
 ========================
 
-A selection of Myanmar, Sgaw Karen, and Pwo Karen word lists for line breaking and spellchecking.
+A selection of Myanmar, Sgaw Karen, and Pwo Karen word lists for line breaking and spell-checking.
 
 This list is part of a project hosted at: github.com/kanyawtech/myanmar-karen-word-lists/.
 
-Also, for more information and aditional projects, see: kanyawtech.org.
+Also, for more information and additional projects, see: kanyawtech.org.
 
-Copyright (C)  2013  LeRoy Benjamin Sharon
+Copyright (C)  2013  LeRoy Benjamin Sharon\\
 With special thanks to Robert Martin Campbell
 
 All lists are released under the BSD license, a copy of which is bundled with this file.
@@ -19,10 +19,10 @@ Myanmar
 **burmese-word-list.txt** - 40,000+ words
 
 Sources include:
-- The my-l10n project, hosted at https://code.google.com/p/my-l10n/. The my-l10n project page states that the word list is released under the MIT lisence. However, there appears to be no copyright notice on the site or in the download. Also, the GNU Free Documentation License in the download, making it dual-licensed. I am using the list under the MIT terms. In compliance with the MIT license you will find a copy in LICENSE-MIT.txt. I do not know the names of the author(s).
+- The my-l10n project, hosted at https://code.google.com/p/my-l10n/
 - http://sourceforge.net/projects/ncsoft/files/Myanmar-English%20Dictionary/
 
-This list was created to aid in word wrapping, word segmentation, and spell checkers. It aims to be an exhaustive list of all words in the Burmese language.
+This list was created to aid in word wrapping, word segmentation, and spell checkering. It aims to be an exhaustive list of all words in the Burmese language.
 
 
 Sgaw Karen
